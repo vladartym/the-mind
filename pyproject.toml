@@ -1,0 +1,11 @@
+[project]
+name = "the-mind"
+version = "0.1.0"
+description = "A second brain that an agent keeps for you"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "faster-whisper>=1.2.1",
+    "mlx-whisper>=0.4.2 ; sys_platform == 'darwin' and platform_machine == 'arm64'",
+    "yt-dlp>=2026.3.17",
+]

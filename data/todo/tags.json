@@ -1,0 +1,8 @@
+{
+  "tags": [
+    { "name": "personal", "label": "Personal", "emoji": "🙂", "color": "#02DBB2" },
+    { "name": "work", "label": "Work", "emoji": "💼", "color": "#CB8A90" },
+    { "name": "home", "label": "Home", "emoji": "🏡", "color": "#4CA1FF" },
+    { "name": "shopping", "label": "Shopping", "emoji": "🛍️", "color": "#35D870" }
+  ]
+}

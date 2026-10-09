@@ -1,0 +1,20 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Editors
+.idea/
+.vscode/
+.obsidian/
+
+# Env
+.env
+.env.local
+
+# The inbox empties into raw/, so nothing in it is ever committed.
+dropbox/*
+!dropbox/.gitkeep
