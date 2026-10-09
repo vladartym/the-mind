@@ -28,7 +28,7 @@ later. A file that is lost cannot.
 
 | What arrived | Where the original goes |
 | --- | --- |
-| A recording: `.m4a`, `.mp3`, `.wav` | `raw/files/<slug>/`, with a `metadata.md` |
+| A recording: `.m4a`, `.mp3`, `.wav` | `raw/transcripts/<slug>/`, with a `metadata.md` |
 | A photograph: `.jpg`, `.png`, `.heic` | `raw/photos/<slug>/` |
 | A note: `.md`, `.txt` | `raw/notes/`, under the name it arrived with |
 | A link to a video or an article | Through the `ingest` skill: `raw/videos/<slug>/` or `raw/articles/<slug>/` |
